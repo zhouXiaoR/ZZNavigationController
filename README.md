@@ -12,9 +12,9 @@
 
 #### 原理介绍：
 
-继承UINavigationController
-添加全屏手势：UIPanGestureRecognizer
-重写以下系统方法，根据手势截屏完成整个过程。
+- 继承UINavigationController
+- 添加全屏手势：UIPanGestureRecognizer
+- 重写以下系统方法，根据手势截屏完成整个过程。
 
 - (void)pushViewController:(UIViewController*)viewController animated:(BOOL)animated;
 - (UIViewController *)popViewControllerAnimated:(BOOL)animated;
