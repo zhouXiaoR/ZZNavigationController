@@ -21,7 +21,7 @@
 
 #### 结语
 
-- 在这里只是实现了一下基本的功能，代码很简洁，有问题可以欢迎指出。
+- 在这里只是实现了一下基本的功能，代码很简洁，有问题欢迎指出。
 
 #### Git地址：
 [点我传送门](https://github.com/zhouXiaoR/ZZNavigationController)
